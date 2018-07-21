@@ -9,11 +9,15 @@
 }
 
 
-/* -- Brand -- */
+/* -- Brand and Navigation -- */
 
-.brand {
+.navbar-brand>img {
     width: 32px;
     height: 32px;
+}
+
+.navbar-brand {
+    height: 0px;
 }
 
 
