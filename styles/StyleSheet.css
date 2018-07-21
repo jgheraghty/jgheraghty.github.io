@@ -27,12 +27,13 @@
 
 .projects {
     display: block;
+    margin-top: 300px;
     margin: auto;
 }
 
 .imgSize {
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
 }
 
 .left {
