@@ -7,3 +7,16 @@
     height: 936px;
     width: 694px;
 }
+
+.projects {
+    display: inline-block;
+    text-align: center;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
