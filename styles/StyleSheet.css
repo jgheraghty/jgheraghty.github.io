@@ -11,8 +11,11 @@
 .projects {
     display: inline-block;
     text-align: center;
-    width: 20px;
-    height: 20px;
+}
+
+.imgSize {
+    width: 100px;
+    height: 100px;
 }
 
 .left {
