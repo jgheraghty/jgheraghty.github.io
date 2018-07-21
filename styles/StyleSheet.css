@@ -8,6 +8,9 @@
     width: 694px;
 }
 
+
+/* -- Home Page -- */
+
 .projects {
     display: block;
     margin: auto;
@@ -24,4 +27,12 @@
 
 .right {
     float: right;
+}
+
+
+/* Framework correction */
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
 }
