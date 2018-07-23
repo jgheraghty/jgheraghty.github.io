@@ -1,12 +1,12 @@
 * {
     box-sizing: border-box;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 body {
     margin: 0;
     font-family: Arial;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 
