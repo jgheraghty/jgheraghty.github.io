@@ -72,7 +72,7 @@ body {
     padding: 32px;
 }
 
-.row {
+.row photoGrid {
     display: -ms-flexbox;
     /* IE10 */
     display: flex;
