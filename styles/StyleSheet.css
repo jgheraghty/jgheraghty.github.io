@@ -55,6 +55,10 @@ body {
     height: 200px;
 }
 
+.imgSize:hover {
+    color: #f2a5a9;
+}
+
 .left {
     float: left;
 }
