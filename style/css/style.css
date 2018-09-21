@@ -1260,6 +1260,11 @@ ul.latest-posts li em.month {
     height: 17px;
 }
 
+.postImg {
+    width: 600px;
+    height: 340px;
+}
+
 .page-navi {
     margin: -15px 0 0 63px;
 }
