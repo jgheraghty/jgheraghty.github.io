@@ -340,7 +340,7 @@ a.more {
     font-family: "SortsMillGoudyItalic";
     font-size: 20px;
     line-height: 30px;
-    text-align: center;
+    /*text-align: center;*/
     text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.99);
     /*width: 960px;
     margin: 0 auto 40px;*/
