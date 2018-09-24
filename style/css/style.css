@@ -1263,6 +1263,7 @@ ul.latest-posts li em.month {
 .post .content .middle .meta .share {
     float: right;
     margin-top: 4px;
+    font-size: 14px;
 }
 
 .post .content .bottom {
